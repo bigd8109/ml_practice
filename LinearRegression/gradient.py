@@ -52,5 +52,5 @@ def basicLR(x, y):
         return a, b
 
 a, b = basicLR(x, y)
-print "a= ", a
-print "b= ", b
+print ("a= ", a)
+print ("b= ", b)
